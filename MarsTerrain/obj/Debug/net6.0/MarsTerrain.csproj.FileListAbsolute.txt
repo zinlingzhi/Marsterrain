@@ -1,0 +1,15 @@
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\bin\Debug\net6.0\MarsTerrain.exe
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\bin\Debug\net6.0\MarsTerrain.deps.json
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\bin\Debug\net6.0\MarsTerrain.runtimeconfig.json
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\bin\Debug\net6.0\MarsTerrain.dll
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\bin\Debug\net6.0\MarsTerrain.pdb
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.csproj.AssemblyReference.cache
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.AssemblyInfoInputs.cache
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.AssemblyInfo.cs
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.csproj.CoreCompileInputs.cache
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.dll
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\refint\MarsTerrain.dll
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.pdb
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\MarsTerrain.genruntimeconfig.cache
+C:\Users\EOP\source\repos\MarsTerrain\MarsTerrain\obj\Debug\net6.0\ref\MarsTerrain.dll
